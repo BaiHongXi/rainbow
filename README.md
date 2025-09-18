@@ -7,8 +7,8 @@
 - 功能3 配合TrickyStore添加全局包名以达到隐藏强BootLoader的目的
 
 ## ❓为何使用它 在Shamiko和TreatWheel的当下使用它有什么好处?
-Shamiko和TreatWheel都是不错的项目 但二者有一个共性——核心隐藏功能均依赖Zygisk实现 如果不安装它们对应的Zygisk组件(ZygiskNext/ReZygisk)隐藏功能就无法生效\
-而Rainbow与之不同 它的优势在于无需依赖Zygisk 就能实现隐藏功能 且在性能开销上控制得很好 任何设备使用时都不会感受到与原状态的差异
+- Shamiko和TreatWheel都是不错的项目 但二者有一个共性——核心隐藏功能均依赖Zygisk实现 如果不安装它们对应的Zygisk组件(ZygiskNext/ReZygisk)隐藏功能就无法生效\
+- 而Rainbow与之不同 它的优势在于无需依赖Zygisk 就能实现隐藏功能 且在性能开销上控制得很好 任何设备使用时都不会感受到与原状态的差异
 
 ## 📦 怎么安装/下载
 - 直接从Release下载
