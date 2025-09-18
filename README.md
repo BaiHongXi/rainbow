@@ -7,7 +7,7 @@
 - 功能3 配合TrickyStore添加全局包名以达到隐藏强BootLoader的目的
 
 ## ❓为何使用它 在Shamiko和TreatWheel的当下使用它有什么好处?
-Shamiko和TreatWheel都是不错的项目 但二者有一个共性——核心隐藏功能均依赖Zygisk实现 如果不安装它们对应的Zygisk组件(ZygiskNext/ReZygisk)隐藏功能就无法生效 
+Shamiko和TreatWheel都是不错的项目 但二者有一个共性——核心隐藏功能均依赖Zygisk实现 如果不安装它们对应的Zygisk组件(ZygiskNext/ReZygisk)隐藏功能就无法生效\
 而Rainbow与之不同 它的优势在于无需依赖Zygisk 就能实现隐藏功能 且在性能开销上控制得很好 任何设备使用时都不会感受到与原状态的差异
 
 ## 📦 怎么安装/下载
@@ -19,6 +19,8 @@ Shamiko和TreatWheel都是不错的项目 但二者有一个共性——核心�
 ## ❌ 常见问题
 - 问题1：安装模块后发现相机/其他xx有问题?
 - 答: 安装改机型模块(OPPO系及其子属)
+- 问题2: 为什么使用字体模块会导致部分检测软件发现Magisk的存在?rainbow是不是无法隐藏?
+- 答: rainbow不会去干涉你的任何挂载 我认为谁提出问题谁解决问题 应该去向字体模块的作者去反馈
 
 ## 📞 反馈/交流
 如果遇到bug 请前往QQ群622977915直接进行反馈 在群里也可以跟其他人交流数码方面的知识
